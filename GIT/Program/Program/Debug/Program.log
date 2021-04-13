@@ -1,0 +1,3 @@
+﻿  Program.cpp
+C:\Users\WavePC\source\repos\Program\Program\Program.cpp(89,19): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+  Program.vcxproj -> C:\Users\WavePC\source\repos\Program\Debug\Program.exe
